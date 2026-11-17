@@ -65,8 +65,8 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Developed By
 
-## Name: Arun S
-### Register No: 212224230023 
+## Name: Vasanth P
+### Register No: 212224230295 
 
 ### Smoothing Filters
 
@@ -138,24 +138,31 @@ plt.show()
 
 ### Smoothing Filters
 
-- Averaging filter produces blurred image  
-<img width="692" height="692" alt="image" src="https://github.com/user-attachments/assets/17268acd-d63d-48a8-b031-db005f921727" />
+- Averaging filter produces blurred image
+-
+- <img width="877" height="566" alt="image" src="https://github.com/user-attachments/assets/aee483aa-8a8b-4edc-a2a8-f9304d0506d7" />
 
 - Weighted averaging provides smoother result with less distortion
-<img width="250" height="387" alt="image" src="https://github.com/user-attachments/assets/a37fe34d-a9a8-4acd-9689-664f4e12413d" />
+
+<img width="653" height="417" alt="image" src="https://github.com/user-attachments/assets/a49391ef-4cb5-4309-99fb-249752995ead" />
 
 - Gaussian filter preserves edges better while reducing noise  
-<img width="167" height="382" alt="image" src="https://github.com/user-attachments/assets/0ffe1cab-6603-444b-b5dd-5d7df8e6d9ba" />
+
+<img width="616" height="411" alt="image" src="https://github.com/user-attachments/assets/088033c6-f2bd-48cb-baa2-68a8a41617e8" />
+
 
 - Median filter removes salt-and-pepper noise effectively  
 
 ###  Sharpening Filters
 
 - Laplacian kernel enhances edges and fine details  
-<img width="187" height="385" alt="image" src="https://github.com/user-attachments/assets/8c3fff14-2b89-4de7-a67f-d6ea632faf0f" />
+
+<img width="632" height="410" alt="image" src="https://github.com/user-attachments/assets/97bb025d-79e6-4675-8098-05032923ed7f" />
+
 
 - Laplacian operator detects edges clearly in grayscale  
-<img width="187" height="380" alt="image" src="https://github.com/user-attachments/assets/0fe1552e-f3da-4c95-b5f9-900f807bf3f1" />
+
+<img width="622" height="403" alt="image" src="https://github.com/user-attachments/assets/9ac88b09-5dbc-4040-b8d6-4f597639ceef" />
 
 ---
 
